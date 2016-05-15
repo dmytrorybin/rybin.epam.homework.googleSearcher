@@ -12,3 +12,4 @@ import tests.WikiTest;
 public class TestSuite1 {
 
 }
+ 

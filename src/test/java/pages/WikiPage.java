@@ -20,4 +20,4 @@ public class WikiPage extends AbstractPage {
 	public WebDriver getDriver() {
 		return driver;
 	}
-}
+} 

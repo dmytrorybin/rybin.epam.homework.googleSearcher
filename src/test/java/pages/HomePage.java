@@ -38,4 +38,4 @@ public class HomePage extends AbstractPage{
 //	public WebElement getSearchFieldId() {
 //		return searchFieldId;
 //	}
-}
+} 

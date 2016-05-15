@@ -19,4 +19,4 @@ public class SeleniumPage extends AbstractPage{
 		return driver;
 	}
 
-}
+} 

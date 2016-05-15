@@ -34,7 +34,7 @@ package tests;
 //		(new WebDriverWait(driver, 5))
 //				  .until(ExpectedConditions.titleContains("Wikipedia"));
 ////		Assert.assertEquals("wikipedia", googleSteps.getTitle().toLowerCase());
-//	}
+//	} 
 //	
 ////	@Test
 //	public void searchSelenuimTest()

@@ -30,4 +30,4 @@ public class SeleniumTest extends AbstractTest {
 		Assert.assertEquals(expectedTitle, seleniumPageSteps.getTitle());
 	}
 
-}
+} 

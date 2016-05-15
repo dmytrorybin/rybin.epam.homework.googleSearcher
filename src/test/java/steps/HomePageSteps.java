@@ -31,5 +31,4 @@ public class HomePageSteps{
 		homePage.getDriver().findElement(By.linkText(searchResult)).click();
 	}
 	
-
 }

@@ -30,3 +30,4 @@ public class WikiTest extends AbstractTest {
 		Assert.assertEquals(expectedTitle, wikiPageSteps.getTitle());
 	}
 }
+ 
